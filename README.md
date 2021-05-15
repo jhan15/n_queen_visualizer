@@ -2,6 +2,8 @@
 
 Visualize the n-queen problem with pygame, including the backtracking steps.
 
+Using random column sequence.
+
 ### Example of 6-queen
 
 ![6_queen](https://user-images.githubusercontent.com/62132206/118371608-a0ff7d00-b5ad-11eb-96dd-9f4b10ab51a4.gif)
