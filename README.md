@@ -2,4 +2,4 @@
 
 Visualize the n-queen problem with pygame, including the backtracking steps.
 
-## Example of 8-queen
+### Example of 8-queen
