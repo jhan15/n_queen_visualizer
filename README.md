@@ -4,7 +4,7 @@ Visualize the n-queen problem with pygame, including the backtracking steps.
 
 ### Example of 6-queen
 
-![6_queen](https://user-images.githubusercontent.com/62132206/118371582-80cfbe00-b5ad-11eb-8658-fbfa84b0c819.gif)
+![6_queen](https://user-images.githubusercontent.com/62132206/118371608-a0ff7d00-b5ad-11eb-96dd-9f4b10ab51a4.gif)
 
 ### Example of 8-queen
 
