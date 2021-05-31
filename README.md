@@ -1,4 +1,5 @@
 [![PyPI version](https://badge.fury.io/py/nqviz.svg)](https://badge.fury.io/py/nqviz)
+![PyPI](https://img.shields.io/pypi/v/nqviz)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nqviz)
 ![PyPI - Implementation](https://img.shields.io/pypi/implementation/nqviz)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/nqviz)
