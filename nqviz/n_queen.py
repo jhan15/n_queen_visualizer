@@ -4,8 +4,8 @@ from .board import board
 
 
 class Nqueen:
-    def __init__(self):
-        self.N = int(input("Enter the size of chess board\n"))
+    def __init__(self, N):
+        self.N = N
         self.cb = board(self.N)
         self.num_cb = [[0] * self.N for _ in range(self.N)]
         self.finished = False

@@ -1,4 +1,6 @@
 import pygame
+from io import BytesIO
+import requests
 
 
 class board:
@@ -9,11 +11,18 @@ class board:
         self.grid_sz = self.surface_sz // self.N
         self.surface_sz = self.N * self.grid_sz
         self.surface = None
-        self.queen = pygame.image.load("queen.png")
+        self.queen = self.read_queen_image()
         self.queen = pygame.transform.scale(self.queen, (self.grid_sz, self.grid_sz))
         self.offset = (self.grid_sz-self.queen.get_width()) // 2
 
         self.create_board()
+    
+    def read_queen_image(self):
+        url = 'https://github.com/jhan15/n_queen_visualizer/blob/master/nqviz/queen.png?raw=true'
+        r = requests.get(url)
+        dataBytesIO = BytesIO(r.content)
+        queen_img = pygame.image.load(dataBytesIO)
+        return queen_img
     
     def create_board(self):
         pygame.init()
