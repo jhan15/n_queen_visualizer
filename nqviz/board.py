@@ -18,7 +18,7 @@ class board:
         self.create_board()
     
     def read_queen_image(self):
-        url = 'https://github.com/jhan15/n_queen_visualizer/blob/master/nqviz/queen.png?raw=true'
+        url = 'https://github.com/jhan15/nqviz/blob/master/nqviz/queen.png?raw=true'
         r = requests.get(url)
         dataBytesIO = BytesIO(r.content)
         queen_img = pygame.image.load(dataBytesIO)
