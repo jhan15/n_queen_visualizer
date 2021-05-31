@@ -60,3 +60,6 @@ class board:
         pygame.display.update(x1,y1,x2,y2)
         pygame.event.pump()
         pygame.time.delay(500)
+
+    def quit(self):
+        pygame.quit()

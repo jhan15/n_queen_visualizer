@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='nqviz',
-      version='0.0.3',
+      version='0.0.4',
       description='N Queen Visualizer',
       packages=['nqviz'],
       install_requires=['pygame>=2.0.1'],

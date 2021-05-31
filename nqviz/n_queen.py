@@ -21,7 +21,7 @@ class Nqueen:
                 if self.backtracking():
                     self.finished = True
     
-        pygame.quit()
+        self.cb.quit()
 
     def backtracking(self):
         cols = [i for i in range(self.N)]
@@ -73,5 +73,5 @@ class Nqueen:
         return True
 
 if __name__ == "__main__":
-    nq = Nqueen()
+    nq = Nqueen(6)
     
