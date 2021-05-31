@@ -15,7 +15,7 @@ pip install nqviz
 ```python
 from nqviz import Nqueen
 
-Nqueen(8) # run n-queen on a 8*8 chessboard
+Nqueen(6) # run n-queen on a 6*6 chessboard
 ```
 
 ## Examples
