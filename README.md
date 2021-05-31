@@ -1,7 +1,7 @@
 ![PyPI](https://img.shields.io/pypi/v/nqviz?color=blue)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nqviz?color=blue)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/nqviz?color=blue)
-[![GitHub license](https://img.shields.io/github/license/jhan15/nqviz)](https://github.com/jhan15/nqviz/blob/master/license.txt)
+[![GitHub license](https://img.shields.io/github/license/jhan15/nqviz?color=blue)](https://github.com/jhan15/nqviz/blob/master/license.txt)
 
 [![GitHub issues](https://img.shields.io/github/issues/jhan15/nqviz)](https://github.com/jhan15/nqviz/issues)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/nqviz?color=blue)
