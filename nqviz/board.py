@@ -26,6 +26,8 @@ class board:
     
     def create_board(self):
         pygame.init()
+        title = str(self.N) + '-queen chessboard'
+        pygame.display.set_caption(title)
         self.surface = pygame.display.set_mode((self.surface_sz, self.surface_sz))
 
         for row in range(self.N):
