@@ -4,6 +4,9 @@
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/nqviz)
 [![GitHub issues](https://img.shields.io/github/issues/jhan15/nqviz)](https://github.com/jhan15/nqviz/issues)
 [![GitHub license](https://img.shields.io/github/license/jhan15/nqviz)](https://github.com/jhan15/nqviz/blob/master/license.txt)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/nqviz)
+
 # nqviz 
 
 nqviz is a tool to visualize the n-queen problem. Random column pick is used.
