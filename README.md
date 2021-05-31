@@ -2,12 +2,6 @@
 
 nqviz is a tool to visualize the n-queen problem. Random column pick is used.
 
-## Requirements
-
-nqviz requires the following dependency:
-
- * pygame (https://www.pygame.org/)
-
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nqviz.
