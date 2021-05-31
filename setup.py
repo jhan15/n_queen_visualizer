@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='nqviz',
-      version='0.0.1',
+      version='0.0.2',
       description='N Queen Visualizer',
       packages=['nqviz'],
       install_requires=['pygame>=2.0.1'],
