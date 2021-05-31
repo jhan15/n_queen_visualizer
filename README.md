@@ -1,4 +1,4 @@
-# nqviz [![PyPI version](https://badge.fury.io/py/nqviz.svg)](https://badge.fury.io/py/nqviz)https://img.shields.io/github/license/jhan15/nqviz
+# nqviz [![PyPI version](https://badge.fury.io/py/nqviz.svg)](https://badge.fury.io/py/nqviz)
 
 nqviz is a tool to visualize the n-queen problem. Random column pick is used.
 
