@@ -1,14 +1,12 @@
-![PyPI](https://img.shields.io/pypi/v/nqviz?color=blue)
+# nqviz ![PyPI](https://img.shields.io/pypi/v/nqviz?color=blue)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nqviz?color=blue)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/nqviz?color=blue)
 [![GitHub license](https://img.shields.io/github/license/jhan15/nqviz?color=blue)](https://github.com/jhan15/nqviz/blob/master/license.txt)
 
+nqviz is a tool to visualize the n-queen problem. Random column pick is used.
+
 [![GitHub issues](https://img.shields.io/github/issues/jhan15/nqviz)](https://github.com/jhan15/nqviz/issues)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/nqviz?color=ff69b4)
-
-# nqviz 
-
-nqviz is a tool to visualize the n-queen problem. Random column pick is used.
 
 ## Installation
 
