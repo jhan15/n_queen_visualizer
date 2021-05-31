@@ -1,4 +1,3 @@
-[![PyPI version](https://badge.fury.io/py/nqviz.svg)](https://badge.fury.io/py/nqviz)
 [![GitHub issues](https://img.shields.io/github/issues/jhan15/nqviz)](https://github.com/jhan15/nqviz/issues)
 [![GitHub license](https://img.shields.io/github/license/jhan15/nqviz)](https://github.com/jhan15/nqviz/blob/master/license.txt)
 # nqviz 
