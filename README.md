@@ -15,7 +15,7 @@ nqviz is a tool to visualize the n-queen problem. Random column pick is used.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install nqviz.
 
 ```bash
-pip install nqviz
+$ pip install nqviz
 ```
 
 ## Usage
