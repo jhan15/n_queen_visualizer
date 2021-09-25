@@ -8,7 +8,7 @@
 
 # nqviz
 
-nqviz is a tool to visualize the n-queen problem. Random column pick is used.
+nqviz is a tool to visualize the n-queen problem. Random column sequence.
 
 ## Installation
 
